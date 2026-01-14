@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hey there! 👋
 
-<!--
-**rahulcode01/rahulcode01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Rahul Singh**, a passionate **Full-Stack Web Developer**.
 
-Here are some ideas to get you started:
+I enjoy building clean, responsive, and user-friendly web applications.  
+When I get an idea, I like to turn it into a real project and improve it step by step.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tech stack includes **JavaScript, React, Node.js, Express, MongoDB**, and **Tailwind CSS**.  
+I love working on both frontend and backend and learning new technologies every day.
+
+I have built several practice and personal projects, including portfolio websites and backend features like contact forms and APIs.
+
+### 🌱 Currently learning
+- MERN Stack (deep dive)
+- Advanced React
+- Backend optimization
+
+### 💡 Fun facts
+- I enjoy coding late at night 🌙  
+- I like solving real-world problems with code  
+- I believe consistency is more important than motivation  
+
+Thanks for visiting my profile 😊  
+Feel free to explore my repositories!
+ 
+
