@@ -8,7 +8,7 @@ When I get an idea, I like to turn it into a real project and improve it step by
 My main tech stack includes **JavaScript, React, Node.js, Express, MongoDB**, and **Tailwind CSS**.  
 I love working on both frontend and backend and learning new technologies every day.
 
-I have built several practice and personal projects, including portfolio websites and backend features like contact forms and APIs.
+I have built several practice and personal projects.
 
 ### 🌱 Currently learning
 - MERN Stack (deep dive)
@@ -22,5 +22,3 @@ I have built several practice and personal projects, including portfolio website
 
 Thanks for visiting my profile 😊  
 Feel free to explore my repositories!
- 
-
